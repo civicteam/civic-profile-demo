@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@civic/profile": "^0.2.0",
+    "@civic/profile": "^0.2.3",
     "@solana/web3.js": "^1.62.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
