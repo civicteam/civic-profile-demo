@@ -1134,10 +1134,10 @@
   dependencies:
     caip "~1.1.0"
 
-"@civic/profile@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@civic/profile/-/profile-0.2.0.tgz#af436cafd1b498d4e8786f1702b0d0b08dbff081"
-  integrity sha512-bCTCqWe0e/bUozOz5EGKvVLqbRkNbqvmFY+wwmW3hiy+n9aPuYKvmATYDjMQqUYO0H844RTKy/svBdILHlj31g==
+"@civic/profile@^0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@civic/profile/-/profile-0.2.3.tgz#bb0b4ece91d781bb43ab6951c6ab1ea7bb4664c6"
+  integrity sha512-3in1qWI0CEsfrUG6oHWPsorq776/+fHO0L/ItI93j3qrjyA1VvGpefsKWZz5f04mPB11AD6RYTdEaXouMGlYcA==
   dependencies:
     "@bonfida/spl-name-service" "^0.1.62"
     "@civic/did-registry" "0.0.6-alpha.2"
