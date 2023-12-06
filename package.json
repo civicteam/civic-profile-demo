@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@civic/profile": "^0.2.4",
+    "@civic/profile": "^0.5.0-beta.1",
     "@ethersproject/providers": "^5.7.2",
     "@solana/web3.js": "^1.62.0",
     "@testing-library/jest-dom": "^5.14.1",
